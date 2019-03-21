@@ -1,0 +1,75 @@
+.login_form{
+  height:100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #fcfcff; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  background-image: url('./login.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar{
+	background-color: #8772ff;
+}
+.home{
+	color:white;
+}
+.form{
+	width:70%;
+	margin:auto;
+}
+
+.login{
+	background-color: #8772ff;
+}
+
+.sign_form{
+	height:100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #fcfcff; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  background-image: url('./sign.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mr-auto{
+	color:white;
+}
+.heading{
+	font-weight: bold;
+	color:black;
+	font-size: 60px;
+}
+.sign_heading{
+	font-weight: bold;
+	color:white;
+	font-size: 60px;
+}
+
+.query{
+
+	background-color: rgba(153,102,255,0.2);
+	height:40%; /* 100% Full-height */
+    width: 80%; /* 0 width - change this with JavaScript */
+  	position: fixed; /* Stay in place */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+    margin:10%;
+
+}
+
